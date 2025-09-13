@@ -13,3 +13,4 @@ A small desktop application for organizing personal tasks.
 
 - Sorting tasks by name/deadline/priority
 - Cancelling operations and caching DB with command and proxy patterns
+- More intuitive GUI
