@@ -12,5 +12,5 @@ A small desktop application for organizing personal tasks.
 ## Features to be added
 
 - Sorting tasks by name/deadline/priority
-- Cancelling operations and caching DB with command and proxy patterns
+- Cancelling operationswith command pattern
 - More intuitive GUI
